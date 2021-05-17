@@ -1,0 +1,82 @@
+[
+    {
+        "category": "Drinks",
+        "name": "Mineral Water",
+        "price": 1.50
+    },
+    {
+        "category": "Drinks",
+        "name": "Sprite",
+        "price": 1.50
+    },
+    {
+        "category": "Drinks",
+        "name": "Coca cola",
+        "price": 1.50
+    },
+    {
+        "category": "Drinks",
+        "name": "Pepsi",
+        "price": 1.50
+    },
+    {
+        "category": "Drinks",
+        "name": "Juice",
+        "price": 1.50
+    },
+    {
+        "category": "Chocolates",
+        "name": "Mars",
+        "price": 1.50
+    },
+    {
+        "category": "Chocolates",
+        "name": "M&M",
+        "price": 1.50
+    },
+    {
+        "category": "Chocolates",
+        "name": "Bounty",
+        "price": 1.50
+    },
+    {
+        "category": "Chocolates",
+        "name": "Snickers",
+        "price": 1.50
+    },
+    {
+        "category": "Chips",
+        "name": "Smiths",
+        "price": 1.50
+    },
+    {
+        "category": "Chips",
+        "name": "Pringles",
+        "price": 1.50
+    },
+    {
+        "category": "Chips",
+        "name": "Kettle",
+        "price": 1.50
+    },
+    {
+        "category": "Chips",
+        "name": "Thins",
+        "price": 1.50
+    },
+    {
+        "category": "Candies",
+        "name": "Mentos",
+        "price": 1.50
+    },
+    {
+        "category": "Candies",
+        "name": "Sour Patch",
+        "price": 1.50
+    },
+    {
+        "category": "Candies",
+        "name": "Skittles",
+        "price": 1.50
+    }
+]
